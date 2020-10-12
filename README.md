@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a Frontend Engineer working with React and TypeScript.
+I absolutely LOVE working with React and TypeScript, and at the moment I'm building something with Next.js to learn it well and so far I'm really enjoying the experience.
+
+I've also used to work with Angular, RxJS, ASP.NET, C#.NET, C++ and C - but in the last 4 years I've been focusing a lot more on Fontend Dvelopment along with Design Systems and Accessibility.
 
 You can find me on Twitter at [@tfmoliveira](https://twitter.com/tfmoliveira).
-
-I'm interested to learn other web development frameworks such as Svelte, as well as other programming languages such as Rust. I have recently started to stream my studies on Twitch at [@fmoliveira](https://www.twitch.tv/fmoliveira). I'm reuniting there every Friday at 1am GMT with other peers where we're diving into React and TypeScript, come on to chat and code with us!
